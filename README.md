@@ -3,7 +3,7 @@
 # Frontend Developer
 
 * 💻 Aspiring Frontend Developer
-* 🌱 Currently learning React and modern frontend development.
+* 🌱 Currently learning modern frontend development.
 * 🚀 Exploring backend technologies like Django and Express.js.
 
 
